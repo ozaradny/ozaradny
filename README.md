@@ -1,6 +1,6 @@
 
 <h1 align="center"> 
-### Hi there 👋 I'm Olivier Zaradny
+Hi there 👋 I'm Olivier Zaradny
   </h1>
 
 <!--
