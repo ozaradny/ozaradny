@@ -12,7 +12,7 @@
   <a href="https://ozaradny.azurewebsites.net/" alt="Olivier Zaradny website" title="Website"><img width="32px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg"/></a>
   
   <a href="https://linktr.ee/ozaradny?utm_source=linktree_profile_share&ltsid=f74322e7-e373-4876-9296-fe3bdde90112
-" alt="Olivier Zaradny Linktree" title="Linktree"><img width="32px" src="[https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Flinktr.ee%2F&psig=AOvVaw3t8FjSzVrlsloORlkqQvwr&ust=1679817934033000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjV1cvP9v0CFQAAAAAdAAAAABAE)"/></a>
+" alt="Olivier Zaradny Linktree" title="Linktree"><img width="32px" src="https://linktr.ee/linktr.ee"/></a>
   
   
   
