@@ -11,8 +11,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ozaradny.azurewebsites.net/" alt="Olivier Zaradny website" title="Website"><img width="32px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://linktr.ee/ozaradny?utm_source=linktree_profile_share&ltsid=f74322e7-e373-4876-9296-fe3bdde90112" alt="Olivier Zaradny Linktree" title="Linktree"><img width="32px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg"/></a>
-  
+  <a href="https://linktr.ee/ozaradny?utm_source=linktree_profile_share&ltsid=f74322e7-e373-4876-9296-fe3bdde90112" alt="Olivier Zaradny Linktree" title="Linktree"><img width="32px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fapi.blog.production.linktr.ee%2Fwp-content%2Fuploads%2F2022%2F06%2FAvatar-Symbol-Canopy.png&tbnid=O22ALMSHsIzOSM&vet=12ahUKEwjG5J3Lz_b9AhV1picCHSD2AcUQMygCegUIARDHAQ..i&imgrefurl=https%3A%2F%2Flinktr.ee%2F&docid=F0UWe_hcCePxgM&w=800&h=800&q=linktree%20icon&ved=2ahUKEwjG5J3Lz_b9AhV1picCHSD2AcUQMygCegUIARDHAQ"/></a>
+
   
 </p>
 
