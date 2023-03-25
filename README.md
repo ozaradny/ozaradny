@@ -1,4 +1,7 @@
+
+<h1 align="center"> 
 ### Hi there 👋 I'm Olivier Zaradny
+  </h1>
 
 <!--
 **ozaradny/ozaradny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
